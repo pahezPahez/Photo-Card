@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/photo-card/static/css/main.ba3e15d6.css",
+    "main.js": "/photo-card/static/js/main.e5e8880c.js",
+    "static/media/DSC05439-2.jpg": "/photo-card/static/media/DSC05439-2.6489123200a3c8502709.jpg",
+    "static/media/DSC04856-Улучшено-Ум. шума.jpg": "/photo-card/static/media/DSC04856-Улучшено-Ум. шума.d2da3f694dda14310f8a.jpg",
+    "static/media/DSC04960-Улучшено-Ум. шума.jpg": "/photo-card/static/media/DSC04960-Улучшено-Ум. шума.283ea1fb7b2a76f8ebf5.jpg",
+    "static/media/DSC05187. седьмое.jpg": "/photo-card/static/media/DSC05187. седьмое.e2863b8791c2ed70777b.jpg",
+    "static/media/DSC05068. второе.jpg": "/photo-card/static/media/DSC05068. второе.aa1bf5d1b50418460047.jpg",
+    "static/media/DSC04804-Улучшено-Ум. шума-3.jpg": "/photo-card/static/media/DSC04804-Улучшено-Ум. шума-3.d585f50eade61255f249.jpg",
+    "index.html": "/photo-card/index.html",
+    "main.ba3e15d6.css.map": "/photo-card/static/css/main.ba3e15d6.css.map",
+    "main.e5e8880c.js.map": "/photo-card/static/js/main.e5e8880c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba3e15d6.css",
+    "static/js/main.e5e8880c.js"
+  ]
+}
